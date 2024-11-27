@@ -10,13 +10,18 @@
 
 {% style %}
   :root {
-    --color-accent: {{ settings.colors_accent.hue }} {{ settings.colors_accent.saturation }}% {{ settings.colors_accent.lightness }}%;
-    --color-surface: {{ settings.colors_surface.hue }} {{ settings.colors_surface.saturation }}% {{ settings.colors_surface.lightness }}%;
-
-    --color-primary: {{ settings.colors_primary.hue }} {{ settings.colors_primary.saturation }}% {{ settings.colors_primary.lightness }}%;
-    --color-contrast: {{ settings.colors_contrast.hue }} {{ settings.colors_contrast.saturation }}% {{ settings.colors_contrast.lightness }}%;
-
-    --color-secondary: {{ settings.colors_secondary.hue }} {{ settings.colors_secondary.saturation }}% {{ settings.colors_secondary.lightness }}%;
-    --gradient: {{ settings.colors_gradient }};
+    --color_primary_800: {{ settings.primary_color_800 }};
+    --color_primary_700: {{ settings.primary_color_700 }};
+    --color_primary_600: {{ settings.primary_color_600 }};
+    --color_primary_500: {{ settings.primary_color_500 }};
+    --color_primary_400: {{ settings.primary_color_400 }};
+    --color_primary_300: {{ settings.primary_color_300 }};
+    --color_secondary_500: {{ settings.secondary_color_500 }};
+    --color_neutral_800: {{ settings.neutral_color_800 }};
+    --color_neutral_500: {{ settings.neutral_color_500 }};
+    --color_neutral_400: {{ settings.neutral_color_400 }};
+    --color_neutral_300: {{ settings.neutral_color_300 }};
+    --color_neutral_000: {{ settings.neutral_color_000 }};
+    --color_gradient_primary: {{ settings.gradient100 }};
   }
 {% endstyle %}
