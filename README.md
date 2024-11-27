@@ -124,3 +124,4 @@ All commands are run from the root of the theme project, from a terminal:
 ## Want to learn more?
 
 Feel free to check [our documentation](https://docs.odestry.com) or jump into our [Discord server](https://help.odestry.com).
+# vrs_health
