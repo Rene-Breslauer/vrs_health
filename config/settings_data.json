@@ -1,0 +1,31 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "logo": "shopify://shop_images/vrs_logo.svg",
+    "primary_color_800": "#222759",
+    "primary_color_700": "#2a2e70",
+    "primary_color_600": "#1b468a",
+    "primary_color_500": "#2162ab",
+    "primary_color_400": "#f2f5f8",
+    "secondary_color_500": "#f57e20",
+    "neutral_color_800": "#212529",
+    "neutral_color_500": "#497780",
+    "neutral_color_400": "#6396a4",
+    "neutral_color_300": "#abc3cc",
+    "neutral_color_000": "#FFFFFF",
+    "gradient100": "linear-gradient(270deg, rgba(33, 98, 171, 1), rgba(75, 171, 224, 1) 100%)",
+    "primary_color_5": "#4babe0",
+    "content_for_index": []
+  },
+  "presets": {
+    "Default": {}
+  }
+}
